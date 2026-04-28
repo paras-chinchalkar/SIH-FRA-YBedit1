@@ -120,18 +120,6 @@ FRA360 integrates Google AI technologies to enhance intelligence and scalability
 
 ---
 
-## 🔗 Project Links
-
-- 💻 **GitHub Repository**  
-  https://github.com/Yash-Bharambe/SIH-FRA-YBedit1  
-
-- 🎥 **Demo Video**  
-  https://youtu.be/6DaNxo724Wg  
-
-- 🚀 **Prototype (Demo / MVP)**  
-  https://fra360-prototype.web.app  
-
----
 
 ## 🔮 Future Enhancements
 
